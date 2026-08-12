@@ -1,0 +1,8 @@
+PANDA HEX - GitHub upload version
+
+All videos are kept, but compressed to reduce file size.
+Extract this ZIP before uploading.
+Upload the CONTENTS into the ROOT of the GitHub repository.
+Do not upload the ZIP itself.
+
+Repository root should contain index.html, style.css, script.js, .nojekyll and assets/.
